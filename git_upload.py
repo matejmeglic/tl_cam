@@ -15,8 +15,6 @@ import datetime
 from os import listdir, path
 from os.path import isfile, join
 
-os.system("ssh -T git@github.com")
-
 logCounter = 0
 
 # indefinite loop  
@@ -42,7 +40,7 @@ while True:
         print("IMG - add")
         os.system("git commit -m 'upload "+onlyFiles[0]+"'")
         print("IMG - commit")
-        os.system("git push -u origin master")
+        os.system("HOME=/home/pi git push -u origin master")
         print("IMG - Git push - file "+onlyFiles[0]+" updated successfully!")
     else :
         print("IMG - No changes - "+ str(len(onlyFiles)) +" image in the IMG folder!")
@@ -59,7 +57,7 @@ while True:
         print("LOGS - add")
         os.system("git commit -m 'upload logs'")
         print("LOGS - commit")
-        os.system("git push -u origin master")
+        os.system("HOME=/home/pi git push -u origin master")
         print("LOGS - Git push - logs updated successfully!")    
         logCounter = len(onlyFilesLogs)
     else :
