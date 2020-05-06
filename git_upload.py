@@ -36,7 +36,7 @@ while True:
                 os.system("rm "+initPath+onlyFiles[0])
                 onlyFiles.remove(onlyFiles[0])
         # git upload on img change
-        os.system("git add "+str(initPath))
+        os.system("git add .")
         print("IMG - add")
         os.system("git commit -m 'upload "+onlyFiles[0]+"'")
         print("IMG - commit")
@@ -53,7 +53,7 @@ while True:
 
     # git upload on log change
     if len(onlyFilesLogs)>logCounter :
-        os.system("git add "+initPathLogs)
+        os.system("git add .")
         print("LOGS - add")
         os.system("git commit -m 'upload logs'")
         print("LOGS - commit")

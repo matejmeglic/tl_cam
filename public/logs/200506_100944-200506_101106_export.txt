@@ -1,0 +1,20 @@
+EXPORTED DATA: 200506_100944-200506_101106
+DEBUG:root: Logging session started at: 200506_100944
+DEBUG:root: Full-res image saved: /home/pi/camera/20200506_1009/2020-05-06_10-09-44
+DEBUG:root: Full-res image saved: /home/pi/camera/20200506_1009/2020-05-06_10-09-52
+DEBUG:root: Full-res image saved: /home/pi/camera/20200506_1009/2020-05-06_10-10-00
+DEBUG:root: Full-res image saved: /home/pi/camera/20200506_1009/2020-05-06_10-10-07
+DEBUG:root: Full-res image saved: /home/pi/camera/20200506_1009/2020-05-06_10-10-28
+DEBUG:root: Full-res image saved: /home/pi/camera/20200506_1009/2020-05-06_10-10-36
+DEBUG:root: Full-res image saved: /home/pi/camera/20200506_1009/2020-05-06_10-10-43
+DEBUG:root: Full-res image saved: /home/pi/camera/20200506_1009/2020-05-06_10-10-51
+DEBUG:root: Full-res image saved: /home/pi/camera/20200506_1009/2020-05-06_10-10-59
+DEBUG:root: Folder created: /home/pi/camera/20200506_1009/export
+DEBUG:root: Timelapse created: /home/pi/camera/20200506_1009/export/20200506
+DEBUG:root: Video auto uploaded to youtube: /home/pi/camera/20200506_1009/export/2020-05-06_10-10-59
+DEBUG:root: 9 photos recorded during the session. 
+DEBUG:root: Total size before compression: 0.0 GB / 46.0 MB
+DEBUG:root: 9 photos after compression.  
+DEBUG:root: Total size after compression: 0.0 GB / 4.0 MB
+DEBUG:root: Files successfully moved to: /backup/20200506_1009
+DEBUG:root: Logging session ended at: 2020-05-06 10:11:06.684721
