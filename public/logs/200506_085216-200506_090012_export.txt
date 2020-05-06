@@ -1,0 +1,27 @@
+EXPORTED DATA: 200506_085216-200506_090012
+DEBUG:root: Logging session started at: 200506_085216
+DEBUG:root: Full-res image saved: /home/pi/camera/20200506_0852/2020-05-06_08-52-16
+DEBUG:root: Full-res image saved: /home/pi/camera/20200506_0852/2020-05-06_08-53-00
+DEBUG:root: Full-res image saved: /home/pi/camera/20200506_0852/2020-05-06_08-53-31
+DEBUG:root: Full-res image saved: /home/pi/camera/20200506_0852/2020-05-06_08-54-02
+DEBUG:root: Full-res image saved: /home/pi/camera/20200506_0852/2020-05-06_08-54-32
+DEBUG:root: Full-res image saved: /home/pi/camera/20200506_0852/2020-05-06_08-55-03
+DEBUG:root: Full-res image saved: /home/pi/camera/20200506_0852/2020-05-06_08-55-34
+DEBUG:root: Full-res image saved: /home/pi/camera/20200506_0852/2020-05-06_08-56-04
+DEBUG:root: Full-res image saved: /home/pi/camera/20200506_0852/2020-05-06_08-56-35
+DEBUG:root: Full-res image saved: /home/pi/camera/20200506_0852/2020-05-06_08-57-06
+DEBUG:root: Compressed image saved to www: /home/pi/ku_tl_cam/public/img/2020-05-06_08-57-06.jpg (UPDATED)
+DEBUG:root: Folder created: /home/pi/camera/20200506_0852/www_alltime/
+DEBUG:root: Compressed image saved: /home/pi/camera/20200506_0852/2020-05-06_08-57-06
+DEBUG:root: Full-res image saved: /home/pi/camera/20200506_0852/2020-05-06_08-57-39
+DEBUG:root: Full-res image saved: /home/pi/camera/20200506_0852/2020-05-06_08-58-09
+DEBUG:root: Full-res image saved: /home/pi/camera/20200506_0852/2020-05-06_08-58-40
+DEBUG:root: Full-res image saved: /home/pi/camera/20200506_0852/2020-05-06_08-59-11
+DEBUG:root: Full-res image saved: /home/pi/camera/20200506_0852/2020-05-06_08-59-42
+DEBUG:root: Video auto uploaded to youtube: /home/pi/camera/20200506_0852/export/2020-05-06_08-59-42
+DEBUG:root: 15 photos recorded during the session. 
+DEBUG:root: Total size before compression: 0.0 GB / 62.0 MB
+DEBUG:root: 15 photos after compression.  
+DEBUG:root: Total size after compression: 0.0 GB / 3.0 MB
+DEBUG:root: Files successfully moved to: /backup/20200506_0852
+DEBUG:root: Logging session ended at: 2020-05-06 09:00:12.807591

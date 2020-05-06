@@ -1,0 +1,40 @@
+EXPORTED DATA: 200506_090323-200506_090700
+DEBUG:root: Logging session started at: 200506_090323
+DEBUG:root: Full-res image saved: /home/pi/camera/20200506_0903/2020-05-06_09-03-23
+DEBUG:root: Full-res image saved: /home/pi/camera/20200506_0903/2020-05-06_09-03-31
+DEBUG:root: Full-res image saved: /home/pi/camera/20200506_0903/2020-05-06_09-03-38
+DEBUG:root: Full-res image saved: /home/pi/camera/20200506_0903/2020-05-06_09-03-46
+DEBUG:root: Full-res image saved: /home/pi/camera/20200506_0903/2020-05-06_09-04-07
+DEBUG:root: Full-res image saved: /home/pi/camera/20200506_0903/2020-05-06_09-04-14
+DEBUG:root: Full-res image saved: /home/pi/camera/20200506_0903/2020-05-06_09-04-22
+DEBUG:root: Full-res image saved: /home/pi/camera/20200506_0903/2020-05-06_09-04-30
+DEBUG:root: Full-res image saved: /home/pi/camera/20200506_0903/2020-05-06_09-04-37
+DEBUG:root: Full-res image saved: /home/pi/camera/20200506_0903/2020-05-06_09-04-45
+DEBUG:root: Compressed image saved to www: /home/pi/ku_tl_cam/public/img/2020-05-06_09-04-45.jpg (UPDATED)
+DEBUG:root: Folder created: /home/pi/camera/20200506_0903/www_alltime/
+DEBUG:root: Compressed image saved: /home/pi/camera/20200506_0903/2020-05-06_09-04-45
+DEBUG:root: Full-res image saved: /home/pi/camera/20200506_0903/2020-05-06_09-04-55
+DEBUG:root: Full-res image saved: /home/pi/camera/20200506_0903/2020-05-06_09-05-03
+DEBUG:root: Full-res image saved: /home/pi/camera/20200506_0903/2020-05-06_09-05-11
+DEBUG:root: Full-res image saved: /home/pi/camera/20200506_0903/2020-05-06_09-05-18
+DEBUG:root: Full-res image saved: /home/pi/camera/20200506_0903/2020-05-06_09-05-26
+DEBUG:root: Full-res image saved: /home/pi/camera/20200506_0903/2020-05-06_09-05-34
+DEBUG:root: Full-res image saved: /home/pi/camera/20200506_0903/2020-05-06_09-05-41
+DEBUG:root: Full-res image saved: /home/pi/camera/20200506_0903/2020-05-06_09-05-49
+DEBUG:root: Full-res image saved: /home/pi/camera/20200506_0903/2020-05-06_09-05-57
+DEBUG:root: Full-res image saved: /home/pi/camera/20200506_0903/2020-05-06_09-06-04
+DEBUG:root: Compressed image saved to www: /home/pi/ku_tl_cam/public/img/2020-05-06_09-06-04.jpg (UPDATED)
+DEBUG:root: Compressed image saved: /home/pi/camera/20200506_0903/2020-05-06_09-06-04
+DEBUG:root: Full-res image saved: /home/pi/camera/20200506_0903/2020-05-06_09-06-14
+DEBUG:root: Full-res image saved: /home/pi/camera/20200506_0903/2020-05-06_09-06-21
+DEBUG:root: Full-res image saved: /home/pi/camera/20200506_0903/2020-05-06_09-06-29
+DEBUG:root: Full-res image saved: /home/pi/camera/20200506_0903/2020-05-06_09-06-37
+DEBUG:root: Full-res image saved: /home/pi/camera/20200506_0903/2020-05-06_09-06-44
+DEBUG:root: Full-res image saved: /home/pi/camera/20200506_0903/2020-05-06_09-06-52
+DEBUG:root: Video auto uploaded to youtube: /home/pi/camera/20200506_0903/export/2020-05-06_09-06-52
+DEBUG:root: 26 photos recorded during the session. 
+DEBUG:root: Total size before compression: 0.0 GB / 109.0 MB
+DEBUG:root: 26 photos after compression.  
+DEBUG:root: Total size after compression: 0.0 GB / 6.0 MB
+DEBUG:root: Files successfully moved to: /backup/20200506_0903
+DEBUG:root: Logging session ended at: 2020-05-06 09:07:00.410999
