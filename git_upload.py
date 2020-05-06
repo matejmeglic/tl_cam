@@ -15,6 +15,8 @@ import datetime
 from os import listdir, path
 from os.path import isfile, join
 
+os.system("ssh -T git@github.com")
+
 logCounter = 0
 
 # indefinite loop  
