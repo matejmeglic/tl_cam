@@ -1,0 +1,240 @@
+EXPORTED DATA: 200507_192155-200507_210022
+DEBUG:root: Logging session started at: 200507_192155
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_19-21-55
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_19-22-26
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_19-22-57
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_19-23-28
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_19-23-58
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_19-24-29
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_19-25-00
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_19-25-31
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_19-26-01
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_19-26-32
+DEBUG:root: Compressed image saved to www: /home/pi/tl_cam/public/img/2020-05-07_19-26-32.jpg (UPDATED)
+DEBUG:root: Compressed image saved: /home/pi/camera/20200507_1921/2020-05-07_19-26-32
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_19-27-04
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_19-27-35
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_19-28-05
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_19-28-36
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_19-29-07
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_19-29-37
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_19-30-08
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_19-30-39
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_19-31-10
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_19-31-40
+DEBUG:root: Compressed image saved to www: /home/pi/tl_cam/public/img/2020-05-07_19-31-40.jpg (UPDATED)
+DEBUG:root: Compressed image saved: /home/pi/camera/20200507_1921/2020-05-07_19-31-40
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_19-32-12
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_19-32-43
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_19-33-13
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_19-33-44
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_19-34-15
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_19-34-46
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_19-35-16
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_19-35-47
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_19-36-18
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_19-36-49
+DEBUG:root: Compressed image saved to www: /home/pi/tl_cam/public/img/2020-05-07_19-36-49.jpg (UPDATED)
+DEBUG:root: Compressed image saved: /home/pi/camera/20200507_1921/2020-05-07_19-36-49
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_19-37-21
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_19-37-51
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_19-38-22
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_19-38-53
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_19-39-24
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_19-39-54
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_19-40-25
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_19-40-56
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_19-41-27
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_19-41-57
+DEBUG:root: Compressed image saved to www: /home/pi/tl_cam/public/img/2020-05-07_19-41-57.jpg (UPDATED)
+DEBUG:root: Compressed image saved: /home/pi/camera/20200507_1921/2020-05-07_19-41-57
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_19-42-29
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_19-43-00
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_19-43-31
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_19-44-01
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_19-44-32
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_19-45-03
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_19-45-34
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_19-46-04
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_19-46-35
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_19-47-06
+DEBUG:root: Compressed image saved to www: /home/pi/tl_cam/public/img/2020-05-07_19-47-06.jpg (UPDATED)
+DEBUG:root: Compressed image saved: /home/pi/camera/20200507_1921/2020-05-07_19-47-06
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_19-47-38
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_19-48-08
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_19-48-39
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_19-49-10
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_19-49-41
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_19-50-11
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_19-50-42
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_19-51-13
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_19-51-44
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_19-52-14
+DEBUG:root: Compressed image saved to www: /home/pi/tl_cam/public/img/2020-05-07_19-52-14.jpg (UPDATED)
+DEBUG:root: Compressed image saved: /home/pi/camera/20200507_1921/2020-05-07_19-52-14
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_19-52-46
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_19-53-17
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_19-53-48
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_19-54-18
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_19-54-49
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_19-55-20
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_19-55-51
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_19-56-21
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_19-56-52
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_19-57-23
+DEBUG:root: Compressed image saved to www: /home/pi/tl_cam/public/img/2020-05-07_19-57-23.jpg (UPDATED)
+DEBUG:root: Compressed image saved: /home/pi/camera/20200507_1921/2020-05-07_19-57-23
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_19-57-55
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_19-58-25
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_19-58-56
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_19-59-27
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_19-59-58
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-00-28
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-00-59
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-01-30
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-02-01
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-02-31
+DEBUG:root: Compressed image saved to www: /home/pi/tl_cam/public/img/2020-05-07_20-02-31.jpg (UPDATED)
+DEBUG:root: Compressed image saved: /home/pi/camera/20200507_1921/2020-05-07_20-02-31
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-03-03
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-03-34
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-04-05
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-04-35
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-05-06
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-05-37
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-06-08
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-06-38
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-07-09
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-07-40
+DEBUG:root: Compressed image saved to www: /home/pi/tl_cam/public/img/2020-05-07_20-07-40.jpg (UPDATED)
+DEBUG:root: Compressed image saved: /home/pi/camera/20200507_1921/2020-05-07_20-07-40
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-08-12
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-08-43
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-09-13
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-09-44
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-10-15
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-10-46
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-11-16
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-11-47
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-12-18
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-12-49
+DEBUG:root: Compressed image saved to www: /home/pi/tl_cam/public/img/2020-05-07_20-12-49.jpg (UPDATED)
+DEBUG:root: Compressed image saved: /home/pi/camera/20200507_1921/2020-05-07_20-12-49
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-13-20
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-13-51
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-14-22
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-14-53
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-15-23
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-15-54
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-16-25
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-16-56
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-17-26
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-17-57
+DEBUG:root: Compressed image saved to www: /home/pi/tl_cam/public/img/2020-05-07_20-17-57.jpg (UPDATED)
+DEBUG:root: Compressed image saved: /home/pi/camera/20200507_1921/2020-05-07_20-17-57
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-18-29
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-19-00
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-19-30
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-20-01
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-20-32
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-21-03
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-21-33
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-22-04
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-22-35
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-23-06
+DEBUG:root: Compressed image saved to www: /home/pi/tl_cam/public/img/2020-05-07_20-23-06.jpg (UPDATED)
+DEBUG:root: Compressed image saved: /home/pi/camera/20200507_1921/2020-05-07_20-23-06
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-23-38
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-24-08
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-24-39
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-25-10
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-25-41
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-26-11
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-26-42
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-27-13
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-27-44
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-28-14
+DEBUG:root: Compressed image saved to www: /home/pi/tl_cam/public/img/2020-05-07_20-28-14.jpg (UPDATED)
+DEBUG:root: Compressed image saved: /home/pi/camera/20200507_1921/2020-05-07_20-28-14
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-28-46
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-29-17
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-29-48
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-30-18
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-30-49
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-31-20
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-31-51
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-32-21
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-32-52
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-33-23
+DEBUG:root: Compressed image saved to www: /home/pi/tl_cam/public/img/2020-05-07_20-33-23.jpg (UPDATED)
+DEBUG:root: Compressed image saved: /home/pi/camera/20200507_1921/2020-05-07_20-33-23
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-33-55
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-34-25
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-34-56
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-35-27
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-35-58
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-36-29
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-36-59
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-37-30
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-38-01
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-38-32
+DEBUG:root: Compressed image saved to www: /home/pi/tl_cam/public/img/2020-05-07_20-38-32.jpg (UPDATED)
+DEBUG:root: Compressed image saved: /home/pi/camera/20200507_1921/2020-05-07_20-38-32
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-39-04
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-39-35
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-40-06
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-40-37
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-41-08
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-41-39
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-42-10
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-42-41
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-43-12
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-43-43
+DEBUG:root: Compressed image saved to www: /home/pi/tl_cam/public/img/2020-05-07_20-43-43.jpg (UPDATED)
+DEBUG:root: Compressed image saved: /home/pi/camera/20200507_1921/2020-05-07_20-43-43
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-44-15
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-44-46
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-45-17
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-45-48
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-46-19
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-46-51
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-47-22
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-47-53
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-48-24
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-48-55
+DEBUG:root: Compressed image saved to www: /home/pi/tl_cam/public/img/2020-05-07_20-48-55.jpg (UPDATED)
+DEBUG:root: Compressed image saved: /home/pi/camera/20200507_1921/2020-05-07_20-48-55
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-49-27
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-49-58
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-50-29
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-51-01
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-51-32
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-52-03
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-52-34
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-53-05
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-53-36
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-54-07
+DEBUG:root: Compressed image saved to www: /home/pi/tl_cam/public/img/2020-05-07_20-54-07.jpg (UPDATED)
+DEBUG:root: Compressed image saved: /home/pi/camera/20200507_1921/2020-05-07_20-54-07
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-54-39
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-55-10
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-55-41
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-56-13
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-56-44
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-57-15
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-57-46
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-58-17
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-58-48
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-59-19
+DEBUG:root: Compressed image saved to www: /home/pi/tl_cam/public/img/2020-05-07_20-59-19.jpg (UPDATED)
+DEBUG:root: Compressed image saved: /home/pi/camera/20200507_1921/2020-05-07_20-59-19
+DEBUG:root: Full-res image saved: /home/pi/camera/20200507_1921/2020-05-07_20-59-51
+DEBUG:root: Folder created: /home/pi/camera/20200507_1921/export
+DEBUG:root: Timelapse created: /home/pi/camera/20200507_1921/export/20200507
+DEBUG:root: Video auto uploaded to youtube: /home/pi/camera/20200507_1921/export/2020-05-07_20-59-51
+DEBUG:root: 1860 photos recorded during the session. 
+DEBUG:root: Total size before compression: 10.977 GB / 11240.5 MB
+DEBUG:root: 1860 photos after compression.  
+DEBUG:root: Total size after compression: 2.416 GB / 2473.7 MB
+DEBUG:root: Files successfully moved to: /backup/20200507_1921
+DEBUG:root: Logging session ended at: 2020-05-07 21:00:22.707767
